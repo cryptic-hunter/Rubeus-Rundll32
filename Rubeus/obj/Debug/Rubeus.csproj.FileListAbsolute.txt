@@ -1,0 +1,6 @@
+C:\Users\karanr\Desktop\rubeus-rundll32\Rubeus\bin\Debug\Rubeus.dll.config
+C:\Users\karanr\Desktop\rubeus-rundll32\Rubeus\bin\Debug\Rubeus.dll
+C:\Users\karanr\Desktop\rubeus-rundll32\Rubeus\bin\Debug\Rubeus.pdb
+C:\Users\karanr\Desktop\rubeus-rundll32\Rubeus\obj\Debug\Rubeus.csprojAssemblyReference.cache
+C:\Users\karanr\Desktop\rubeus-rundll32\Rubeus\obj\Debug\Rubeus.dll
+C:\Users\karanr\Desktop\rubeus-rundll32\Rubeus\obj\Debug\Rubeus.pdb
